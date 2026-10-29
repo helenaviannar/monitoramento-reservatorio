@@ -6,7 +6,7 @@ Este é um projeto simples em Python desenvolvido para simular o monitoramento d
 - **Python 3**
 - **Colorama** (Biblioteca para manipulação de cores no terminal)
 
-## 📋 Níveis de Alerta
+## Níveis de Alerta
 - Nível 1: Muito baixo (crítico) - Vermelho
 - Nível 2: Baixo - Amarelo
 - Nível 3: Médio - Verde
